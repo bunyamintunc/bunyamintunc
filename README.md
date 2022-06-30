@@ -5,11 +5,6 @@
 
 
 
-#### 
-
-- 🔭 Manisa Celal Bayar Üniversitesi 3.sınıf öğrencisiyim <br/>
-- 🌱 Java ve Python Öğreniyorum...
-
 ## Benimle iletişime geç:
 <p align="left">
 <a href="https://linkedin.com/in/bünyamin tünç" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bünyamin tünç" height="30" width="40" /></a>
