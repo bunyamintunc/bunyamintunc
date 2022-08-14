@@ -1,4 +1,4 @@
-## Merhaba :raised_hands: Ben Bünyamin
+## Hi there :wave: I'm Bünyamin TÜNÇ
 
 
 
