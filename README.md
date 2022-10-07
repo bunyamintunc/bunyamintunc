@@ -1,6 +1,6 @@
 ## Hi there :wave: I'm Bünyamin TÜNÇ
 
-* I am a student
+* :bust_in_silhouette: I am a student
 
 ### Reach out to me 
 
