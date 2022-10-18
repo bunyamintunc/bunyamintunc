@@ -1,6 +1,7 @@
 ## Hi there :wave: I'm Bünyamin TÜNÇ
 
 * :bust_in_silhouette: I am a student
+* :green_book: I am interested in java
 
 ### Reach out to me 
 
