@@ -26,7 +26,7 @@
 [linkedin]:https://www.linkedin.com/in/bunyamintunc  
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=bunyamintunc
+![deneme](https://github-readme-stats.vercel.app/api/top-langs/?username=bunyamintunc)
 
 
 
