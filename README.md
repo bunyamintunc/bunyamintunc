@@ -1,3 +1,5 @@
+
+
 ## Hi there :wave: I'm Bünyamin TÜNÇ
 
 * :bust_in_silhouette: I am a student
@@ -5,7 +7,7 @@
 
 ### Reach out to me 
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  />][linkedin]
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white][linkedin]
 <br/>
 <br/>
 
@@ -26,7 +28,7 @@
 [linkedin]:https://www.linkedin.com/in/bunyamintunc  
 
 
-![deneme](https://github-readme-stats.vercel.app/api/top-langs/?username=bunyamintunc)
+
 
 
 
