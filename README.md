@@ -5,9 +5,6 @@
 * :bust_in_silhouette: I am a student
 * :green_book: I am interested in java
 
-### Reach out to me 
-
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/bunyamintunc )
 <br/>
 <br/>
 
