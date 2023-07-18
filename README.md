@@ -2,8 +2,10 @@
 
 ## Hi there :wave: I'm Bünyamin TÜNÇ
 
-* :bust_in_silhouette: I am a student
-* :green_book: I am interested in java
+* :telescope: I’m currently working for Kubeshop
+* :mailbox: How to reach me: huseyinbabal88 at gmail dot com
+* :smirk: Pronouns: he/him
+* :left_speech_bubble: Ask me about Java, SAP Hybris
 
 <br/>
 <br/>
