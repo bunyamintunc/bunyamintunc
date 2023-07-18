@@ -2,8 +2,8 @@
 
 ## Hi there :wave: I'm Bünyamin TÜNÇ
 
-* :telescope: I’m currently working for Kubeshop
-* :mailbox: How to reach me: huseyinbabal88 at gmail dot com
+* :telescope: I’m currently working for E-commint
+* :mailbox: How to reach me: bunyamintuncc at gmail dot com
 * :smirk: Pronouns: he/him
 * :left_speech_bubble: Ask me about Java, SAP Hybris
 
